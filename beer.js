@@ -34,7 +34,7 @@ function generateBoard(difficulty) {
         }
     });
     renderBoard(board);
-    console.log(board);
+
 
 }
 
