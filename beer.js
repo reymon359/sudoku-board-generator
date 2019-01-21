@@ -1,4 +1,5 @@
-// Title
+// Sudoku-board-generator 
+// Author: Ramon Morcillo @reymon359
 
 
 function generateBoard(difficulty) {
